@@ -8,7 +8,7 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: Example description
+description: メディアコンテンツ制作実習用Podcastサイト
 description_long: Example long description
 email: info@example.com
 exclude:
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: TEICAST実験サイト
 url: http://example.com
